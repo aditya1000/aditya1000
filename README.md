@@ -29,8 +29,6 @@
 ## 👨‍💻 Portfolio & Publications
 All of my work is available at **[adityanagori.com](https://adityanagori.com)**
 
-## 📫 How to Reach Me
-**Email**: aditya.nagori@duke.edu
 
 ## 📄 Academic Background
 **PhD in Computational Medicine** - Building early warning systems for critical events in intensive care units
