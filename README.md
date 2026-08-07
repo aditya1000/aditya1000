@@ -2,30 +2,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### A passionate biomedical data scientist building trustworthy clinical AI systems
+### Biomedical Data Science | Clinical AI & Machine Learning | LLMs, AI Agents, EHR Data, Critical Care
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya1000&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 🔭 Currently Working On
-- **Clinical AI Systems** at Duke University School of Medicine
-- **Large Language Models** for perioperative and critical care
-- **Prospective Clinical Evaluations** of AI in high-stakes medical settings
-- **RAG Pipelines** and LLM-powered agents for healthcare
-
-## 👯 Looking to Collaborate On
-- AI/ML in healthcare and clinical decision support
-- Trustworthy and interpretable machine learning
-- Prospective validation of clinical AI systems
-- Generative AI for medicine
-
-## 💬 Ask Me About
-- **Clinical AI & Machine Learning**: Early warning systems, predictive modeling
-- **LLMs in Healthcare**: RAG, prompt engineering, clinical NLP
-- **Computational Medicine**: ICU analytics, perioperative risk prediction
-- **Model Evaluation**: Prospective studies, fairness, calibration
-
+- **Predictive Models**
+- **Generative AI** for perioperative and critical care
+- **Clinical AI governance** 
+  
 ## 👨‍💻 Portfolio & Publications
 All of my work is available at **[adityanagori.com](https://adityanagori.com)**
 
